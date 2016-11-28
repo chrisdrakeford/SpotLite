@@ -1,0 +1,7 @@
+#Sun Nov 27 19:26:30 GMT 2016
+base.0=/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0220ef521fda0f7c624d1cc2889b25951887aafe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6433c8033594ef8808d75428fdfe77f678826865/classes.dex
+base.1=/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6433c8033594ef8808d75428fdfe77f678826865
+file.0=/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0220ef521fda0f7c624d1cc2889b25951887aafe/classes.dex

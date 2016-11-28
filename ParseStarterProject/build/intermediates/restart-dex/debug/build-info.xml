@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="5540068398952"
+    token="-357340799990157168"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="135" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="9" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="2214485065482"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5540068398952"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="24464997226372"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

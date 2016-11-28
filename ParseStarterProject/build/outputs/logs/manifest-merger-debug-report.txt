@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:10:1-42:12
+	package
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:11:5-32
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:10:11-69
+	android:versionCode
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:14:22-76
+application
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:16:4-40:18
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:20:9-33
+	android:allowBackup
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:26:13-48
+activity#com.parse.starter.DispatchActivity
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:29:8-34:15
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:29:18-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:30:8-33:24
+action#android.intent.action.MAIN
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:31:12-64
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:31:20-61
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:32:12-72
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:32:22-69
+activity#com.parse.starter.LoginActivity
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:35:8-36:19
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:35:18-64
+activity#com.parse.starter.RegisterActivity
+ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:37:8-38:19
+	android:name
+		ADDED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml:37:18-67
+uses-sdk
+INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chris/AndroidStudioProjects/SpotLite1/ParseStarterProject/src/main/AndroidManifest.xml
